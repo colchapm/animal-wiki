@@ -1,0 +1,28 @@
+.btn {
+  display: block;
+}
+
+#octopus {
+  display: none;
+}
+
+#fox {
+  display: none;
+}
+
+#bulldog {
+  display: none;
+}
+
+.clickable {
+  cursor:pointer;
+  color: #0088cc;
+}
+
+
+.image {
+  width: 60%;
+  margin: 10px;
+  height: auto;
+  display: block;
+}
